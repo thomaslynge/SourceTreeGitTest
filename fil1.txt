@@ -1,3 +1,4 @@
 Dette er første linie.
 Dette er anden linie.
 Dette er tredie linie oprettet i BranchTest.
+Dette er fjerde line.
