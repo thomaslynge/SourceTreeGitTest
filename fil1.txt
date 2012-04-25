@@ -1,1 +1,2 @@
 Dette er første linie.
+Dette er anden linie.
